@@ -3,6 +3,8 @@
 An application in react that is created simply to allow users to add, edit and delete task they want to learn on and also
 mark tasks as complete without deleting them.
 
+![Screenshot](./public/static/todo1-2021-04-18_10.41.01.gif)
+
 The app components are created with styling in place, the functionality of individual components and their interactivity 
 are maintained.
 
