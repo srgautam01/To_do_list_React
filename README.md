@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# To-do List (React)
+
+An application in react that is created simply to allow users to add, edit and delete task they want to learn on and also
+mark tasks as complete without deleting them.
+
+The app components are created with styling in place, the functionality of individual components and their interactivity 
+are maintained.
+
+
+<hr />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
